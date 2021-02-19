@@ -1,0 +1,4 @@
+include ':gridview'
+include ':listview'
+include ':app'
+rootProject.name = "AdapterView"
